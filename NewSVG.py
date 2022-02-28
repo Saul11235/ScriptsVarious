@@ -1,4 +1,4 @@
-#make a new index.html file
+#make a new img.svg file for inkscape edit
 
 texto="""<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
